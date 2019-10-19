@@ -1,0 +1,65 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextTitle" parent="@style/TextAppearance.AppCompat">
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">@dimen/space_padding</item>
+        <item name="android:layout_marginEnd">@dimen/space_padding</item>
+        <item name="android:layout_marginTop">@dimen/space_padding</item>
+    </style>
+
+    <style name="TextDate" parent="@style/TextAppearance.AppCompat">
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_marginStart">@dimen/space_padding</item>
+        <item name="android:layout_marginEnd">@dimen/space_padding</item>
+    </style>
+
+    <style name="TextRate" parent="@style/TextAppearance.AppCompat">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextHeader" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextHeader.Title1" parent="@style/TextHeader">
+        <item name="android:layout_marginStart">@dimen/screen_padding</item>
+        <item name="android:layout_marginEnd">@dimen/screen_padding</item>
+        <item name="android:layout_marginTop">@dimen/screen_padding</item>
+    </style>
+
+    <style name="TextHeader.Title2" parent="@style/TextHeader">
+        <item name="android:layout_marginTop">@dimen/screen_padding</item>
+    </style>
+
+    <style name="TextContent" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:layout_marginStart">@dimen/screen_padding</item>
+        <item name="android:layout_marginEnd">@dimen/screen_padding</item>
+    </style>
+
+    <style name="ButtonPlay" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

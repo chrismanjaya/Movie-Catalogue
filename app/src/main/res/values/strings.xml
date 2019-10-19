@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue 5</string>
+    <string name="tab_movie">Movies</string>
+    <string name="tab_tv">Tv Shows</string>
+    <string name="tab_fav">Favorites</string>
+    <string name="backdrop_description">Backdrop Image</string>
+    <string name="poster_description">Poster Image</string>
+    <string name="text_title_default">...</string>
+    <string name="text_date_default">...</string>
+    <string name="text_vote_avarage_default">-</string>
+    <string name="user_score">User Scores</string>
+    <string name="btn_trailer">PLAY TRAILER</string>
+    <string name="text_overview">Overview</string>
+    <string name="text_overview_default">...</string>
+    <string name="text_cast">Cast</string>
+    <string name="text_crew">Crew</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_detail">Item Detail</string>
+    <string name="text_genre">Genres</string>
+    <string name="text_genre_default">...</string>
+    <string name="menu_setting">Change Language</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="isFavoriteTv">set as favorite Tv Show</string>
+    <string name="isNotFavoriteTv">discard from favorite Tv Show</string>
+    <string name="isFavoriteMovie">set as favorite Movie</string>
+    <string name="isNotFavoriteMovie">discard from favorite Movie</string>
+    <string name="search">Search</string>
+    <string name="notification_category">Notification Reminder</string>
+    <string name="daily_reminder_title">Daily Reminder Notification</string>
+    <string name="daily_reminder_summary">Click to Toggle On or Off Daily Reminder Notification</string>
+    <string name="release_reminder_summary">Click to Toggle On or Off Release Reminder Notification</string>
+    <string name="release_reminder_title">Release Today Reminder Notification</string>
+    <string name="language_category">Language Setting</string>
+    <string name="change_language_title">Change Application Language</string>
+    <string name="change_language_summary">Click to Change Application Language</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="release_reminder_key">release_reminder_key</string>
+    <string name="daily_reminder_key">daily_reminder_key</string>
+    <string name="appwidget_text">Favorite Film Banner</string>
+    <string name="empty_text">No Data</string>
+    <string name="search_hint_tv_show">Search Tv Show</string>
+    <string name="search_hint_movie">Search Movie</string>
+</resources>

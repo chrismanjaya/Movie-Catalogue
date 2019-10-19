@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingVertical="@dimen/space_padding">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_item_photo"
+        android:layout_width="@dimen/profil_picture_diameter"
+        android:layout_height="@dimen/profil_picture_diameter"
+        android:layout_marginEnd="@dimen/space_padding"
+        android:layout_marginRight="@dimen/space_padding"
+        tools:src="@android:color/darker_gray" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/img_item_photo"
+        android:layout_toRightOf="@id/img_item_photo"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="@string/item_name" />
+
+        <TextView
+            android:id="@+id/tv_item_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            tools:text="@string/item_detail" />
+
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#00BCD4</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <color name="colorBackground">#000000</color>
+    <color name="colorBackground1">#EEEEEE</color>
+    <color name="colorBackground2">#E4E4E4</color>
+    <color name="colorBackground3">#D8D8D8</color>
+
+    <color name="textColorAppTitle">#FFFFFF</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#03A9F4</color>
+    <color name="colorTextInvert">#FFFFFF</color>
+
+    <color name="colorToast">#00BCD4</color>
+    <color name="colorTextToast">#005F6D</color>
+</resources>

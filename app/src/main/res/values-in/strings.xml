@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue 5</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Serial Tv</string>
+    <string name="tab_fav">Favorit</string>
+    <string name="backdrop_description">Gambar Latar Belakang</string>
+    <string name="poster_description">Gambar Poster</string>
+    <string name="text_title_default">...</string>
+    <string name="text_date_default">...</string>
+    <string name="text_vote_avarage_default">-</string>
+    <string name="user_score">Penilaian Pengguna</string>
+    <string name="btn_trailer">PUTAR CUPLIKAN</string>
+    <string name="text_overview">Deskripsi Singkat</string>
+    <string name="text_overview_default">...</string>
+    <string name="text_cast">Pemain</string>
+    <string name="text_crew">Kru</string>
+    <string name="item_name">Nama Item</string>
+    <string name="item_detail">Detail Item</string>
+    <string name="text_genre">Genre</string>
+    <string name="text_genre_default">...</string>
+    <string name="menu_setting">Ganti Bahasa</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="isFavoriteTv">ditambahkan ke favorit Serial Tv</string>
+    <string name="isNotFavoriteTv">dihapus dari favorit Serial Tv</string>
+    <string name="isFavoriteMovie">ditambahkan ke favorit Film</string>
+    <string name="isNotFavoriteMovie">dihapus dari favorit Film</string>
+    <string name="search">Cari</string>
+    <string name="notification_category">Pengingat Notifikasi</string>
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_summary">Klik untuk Mengaktifkan atau Menonaktifkan Notifikasi Pengingat Harian</string>
+    <string name="release_reminder_summary">Klik untuk Mengaktifkan atau Menonaktifkan Notifikasi Film Rilis Hari ini</string>
+    <string name="release_reminder_title">Pengingat Film Rilis Hari ini</string>
+    <string name="language_category">Ubah Bahasa</string>
+    <string name="change_language_title">Ganti Bahasa Aplikasi</string>
+    <string name="change_language_summary">Klik untuk Mengubah Bahasa Aplikasi</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="release_reminder_key">release_reminder_key</string>
+    <string name="daily_reminder_key">daily_reminder_key</string>
+    <string name="appwidget_text">Banner Film Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="search_hint_tv_show">Cari Serial Tv</string>
+    <string name="search_hint_movie">Cari Film</string>
+</resources>
